@@ -1,0 +1,85 @@
+/* App.css */
+
+/* General styles */
+.app-container {
+  padding: 20px;
+}
+
+.app-bar {
+  background-color: #3f51b5;
+}
+
+.toolbar {
+  display: flex;
+  justify-content: space-between;
+}
+
+.drawer {
+  width: 250px;
+}
+
+.content {
+  margin-top: 20px;
+}
+
+.card {
+  margin-bottom: 20px;
+}
+
+.avatar {
+  margin: 20px 0;
+}
+
+.snackbar {
+  position: absolute;
+  bottom: 20px;
+  right: 20px;
+}
+
+.popover-content {
+  padding: 20px;
+}
+
+.pagination {
+  margin: 20px 0;
+}
+
+.speed-dial {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+}
+
+.button-group {
+  margin: 20px 0;
+}
+
+.breadcrumbs {
+  margin: 20px 0;
+}
+
+.chip {
+  margin: 10px 0;
+}
+
+.skeleton {
+  margin: 20px 0;
+}
+
+.accordion {
+  margin: 20px 0;
+}
+
+.linear-progress {
+  margin: 20px 0;
+}
+
+.fab {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+}
+
+.search-icon {
+  margin: 20px;
+}
